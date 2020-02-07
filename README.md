@@ -1,4 +1,2 @@
-# Python-To-EXE
-把Python文件转成EXE文件\
-电脑需安装pyinstaller库\
-用pip安装即可
+# Python useful tools
+各种各样的Python小工具（持续更新中）
